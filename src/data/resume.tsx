@@ -154,11 +154,7 @@ export const DATA = {
         "Docker"
       ],
       links: [
-        {
-          type: "In Progress",
-          href: "/",
-          icon: <Icons.framermotion className="size-3" />,
-        },
+        
       ],
       image: "/superquant.jpg",
       video:
