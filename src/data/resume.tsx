@@ -100,7 +100,7 @@ export const DATA = {
       start: "Jul 2024",
       end: "Aug 2024",
       description:
-        "Built and fine-tuned **Large Language Models (LLMs)** using state-of-the-art transformer architectures to tackle NLP challenges. Developed optimized machine learning pipelines and data preprocessing workflows for structured and unstructured datasets, achieving competitive rankings in Kaggle competitions through effective hyperparameter tuning and model evaluation.",
+        "Built and fine-tuned Large Language Models (LLMs) using state-of-the-art transformer architectures to tackle NLP challenges. Developed optimized machine learning pipelines and data preprocessing workflows for structured and unstructured datasets, achieving competitive rankings in Kaggle competitions through effective hyperparameter tuning and model evaluation.",
     },
     {
       company: "Bld.ai",
